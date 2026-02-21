@@ -1,4 +1,4 @@
-# 🎮 Fruit Merge Kit — Complete 2D Game Template for Unity
+# 🎮 Fruit Merge Kit — Complete 2D Game Template
 
 **Production-ready • Scalable Architecture • Cross-Platform Support**
 
